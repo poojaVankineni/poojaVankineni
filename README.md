@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @poojaVankineni
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning WebApps, OOPS
-- 📫 You can reach me @poojaVankineni on GITHUB
+# Pooja Vankineni
 
-<!---
-poojaVankineni/poojaVankineni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi,
+I am Pooja Vankineni. I am currently pursuing Master's in Applied Computer Science at Northwest Missouri State University. <br>
+I am planning to become a Devops Engineer.<br>
+**Experience**
+I worked as Test Engineer for 2 years at Infosys Ltd.
